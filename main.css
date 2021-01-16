@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: blue;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: red;
+    padding-top: 20px;
+}
+
+h3 {
+    font-family: sans-serif;
+    color:green;
+    padding-top: 20px;
+}
